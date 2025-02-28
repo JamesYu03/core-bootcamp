@@ -1,0 +1,24 @@
+{
+    "name": "EMUL",
+    "description": "A VORPAL BUNNY",
+    "symbol": "SE",
+    "image": "https://i.imgur.com/fl59fb0.jpeg",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "SELYO EXCLUSIVE BADGE"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "selyo.quest"
+        }
+    ]
+}

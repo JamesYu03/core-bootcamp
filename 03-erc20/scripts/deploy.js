@@ -7,7 +7,7 @@
 const hre = require("hardhat");
 
 async function main() {
-  const contract = await hre.ethers.deployContract("NameYourToken", [1234000000000000000000n]);
+  const contract = await hre.ethers.deployContract("POLY", [9999000000000000000000n]);
 
   await contract.waitForDeployment();
 
